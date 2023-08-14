@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>AppointmentFormHandler</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>Appointment_Detail__c</members>
+		<members>Appointment_Slot__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>Appointment_Detail__c</members>
+		<members>Appointment_Slot__c</members>
+		<name>CustomTab</name>
+	</types>
+	<types>
+		<members>Appointment_Detail__c-Appointment Detail Layout</members>
+		<members>Appointment_Slot__c-Appointment Slot Layout</members>
+		<name>Layout</name>
+	</types>
+	<types>
+		<members>appointmentForm</members>
+		<name>LightningComponentBundle</name>
+	</types>
+	<version>55.0</version>
+</Package>
